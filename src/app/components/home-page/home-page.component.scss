@@ -1,0 +1,45 @@
+.bg-dark {
+  background-color: #343a40 !important;
+}
+
+.imgsize {
+  width: 260px;
+  height: 260px;
+  /*logo circunferencia*/
+  border-radius: 10%;
+  /*posicion logo referente al div logincanal*/
+  top: 10px;
+  /*left:calc(50% -50px) ;*/
+  /*la div tiene 320 de ancho-100 del ancho del logo=220 la mitad es 110*/
+  right: 110px; /*160 mitad width menos 50px*/
+}
+
+.imgsize2 {
+  width: 230px;
+  height: 260px;
+  /*logo circunferencia*/
+  border-radius: 10%;
+  /*posicion logo referente al div logincanal*/
+  top: 10px;
+  /*left:calc(50% -50px) ;*/
+  /*la div tiene 320 de ancho-100 del ancho del logo=220 la mitad es 110*/
+  right: 110px; /*160 mitad width menos 50px*/
+}
+
+.imgsize7 {
+  width: 270px;
+  height: 100px;
+  /*logo circunferencia*/
+  border-radius: 10%;
+  /*posicion logo referente al div logincanal*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*left:calc(50% -50px) ;*/
+  /*la div tiene 320 de ancho-100 del ancho del logo=220 la mitad es 110*/
+  /*160 mitad width menos 50px*/
+}
+
+.card-block {
+  top: 330px;
+}
